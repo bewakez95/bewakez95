@@ -24,7 +24,7 @@ To enhance my development workflow and productivity, I rely on tools like Visual
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     2 hrs           ██████████████████████▓░░   20.25 %
+JavaScript     20 hrs          ██████████████████████▓░░   90.25 %
 TailwindCss    1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
 Bootstrap      41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 Redux          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
