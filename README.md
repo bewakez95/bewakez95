@@ -7,9 +7,9 @@ My proficiency extends to modern front-end libraries and frameworks such as Reac
 To enhance my development workflow and productivity, I rely on tools like Visual Studio Code, where I leverage various extensions and plugins to streamline the coding process. Additionally, I'm proficient in implementing user-friendly features like toast notifications to provide a polished and user-centric interface.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/bewakez95/E-commerce" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:bewakez95@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **Languages and tools:**  
